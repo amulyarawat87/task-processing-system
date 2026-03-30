@@ -1,4 +1,4 @@
-package com.example.task_processing_system;
+package com.amulya.task_processing_system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
